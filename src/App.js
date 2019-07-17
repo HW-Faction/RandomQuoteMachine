@@ -105,6 +105,7 @@ class App extends Component {
             New Quote
           </button>
         </div>
+        <H1>See Code on Github</H1>
       </div>
     );
   }
